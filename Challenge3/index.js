@@ -4,7 +4,7 @@ Send the email to joshua@letsleapforward.com
 Use SendGrid to send the email
 https://www.npmjs.com/package/@sendgrid/mail
 You may have to install the package
-The Api Key to use is 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
+You should create a free sendgrid account to get a API key
 */
 
 /* Message Contents:
